@@ -22,7 +22,10 @@
   <img title="Javascript" alt="Javascript" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   <img title="Git" alt="Git" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
-![Josias' GitHub stats](https://github-readme-stats.vercel.app/api?username=JosiasPires&theme=github_dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosiasPires&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=JosiasPires&theme=github_dark&show_icons=true">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiasPires&layout=compact&theme=github_dark">
+</div>
 <!--
 **JosiasPires/JosiasPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
