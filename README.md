@@ -24,8 +24,8 @@
 </div>
 <br>
 <div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=JosiasPires&theme=github_dark&show_icons=true">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiasPires&layout=compact&theme=github_dark">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=JosiasPires&theme=github_dark&show_icons=true">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosiasPires&layout=compact&theme=github_dark">
 </div>
 <!--
 **JosiasPires/JosiasPires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
