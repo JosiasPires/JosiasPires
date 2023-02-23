@@ -8,9 +8,9 @@
 <div align="center"><img src="https://media3.giphy.com/media/zOvBKUUEERdNm/giphy.gif" width="200"></div>
 <h3>👨‍💻 About me :</h3>
 <ul>
-  <li>🇧🇷 I'm a student from Brazil</li>
-  <li>🎂 I'm 16 years old</li>
-  <li>🌱 I’m currently learning HTML, CSS and Javascript with <b>The Odin Project</b>;</li>
+  <li>🇧🇷 I'm a student from Brazil.</li>
+  <li>🎂 I'm 16 years old.</li>
+  <li>🌱 I’m currently learning HTML, CSS and Javascript with <b>The Odin Project</b>.</li>
   <li>⚡ In my free time, I see inspiring websites and projects. I read stories, comics, play games and watch movies.</li>
   <li>🌐 I learned English on the internet, allowing me to consume webdev content, talk with people, learn Linux and learn programming with TOP.</li>
   <li>🐧 Fun fact: I use linux! I'm currently using EndeavourOS with KDE Plasma.</li>
